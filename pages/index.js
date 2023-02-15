@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Nueva App</title>
+        <title>Nueva App Next</title>
       </Head>
 
       <main className={styles.main}>
